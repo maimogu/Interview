@@ -6,7 +6,7 @@
  * 2.将程序后台运行的方法
 * 计算机网络基础
  * 三次握手协议
- * [HTTP协议请求的几种方式](http://blog.csdn.net/zhu_xun/article/details/16939691 ) 
+ * [HTTP协议请求的几种方式](#计算机网络基础.2) 
  * 网络下一跳地址的配置
 *  数据库及数据分析
 * 软件测试与测试开发
@@ -15,6 +15,11 @@
  * [3.A/B Test的含义，A/B Test的几种实现策略.](#软件测试与测试开发.3)
  
 ***
+#计算机网络基础
+###<span id="计算机网络基础.2"></span>HTTP协议请求的几种方式
+HTTP协议中共定义了八种方法或者叫“动作”来表明对Request-URI指定的资源的不同操作方式.
+详情可参考：http://blog.csdn.net/zhu_xun/article/details/16939691 
+
 #软件测试与测试开发
 ###<span id="软件测试与测试开发.3"></span>3.A/B Test的含义，A/B Test的几种实现策略
  * http://www.liuxingshe.com/qt/1199906.html
