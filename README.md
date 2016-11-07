@@ -56,6 +56,9 @@
 ###4.5 数据三范式的概念
 详情参考：http://www.cnblogs.com/ybwang/archive/2010/06/04/1751279.html
 
+###4.6 数据归一化的几种方法
+详情参考：http://webdataanalysis.net/data-analysis-method/data-normalization/
+
 
 
 
