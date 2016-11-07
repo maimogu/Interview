@@ -12,11 +12,11 @@
 * 软件测试与测试开发
  * 1.如何对微信红包流程进行测试？(没有标准答案，自由发挥)
  * 2.安卓手机上，手势开锁的测试方法与流程 (没有标准答案，自由发挥)
- * [3.A/B Test的含义，A/B Test的几种实现策略.](./3.A/B Test的含义，A/B Test的几种实现策略)
+ * [3.A/B Test的含义，A/B Test的几种实现策略.](#软件测试与测试开发.3)
  
 ***
 #软件测试与测试开发
-###3.A/B Test的含义，A/B Test的几种实现策略
+###<span id="jump">软件测试与测试开发.3</span>3.A/B Test的含义，A/B Test的几种实现策略
  * http://www.liuxingshe.com/qt/1199906.html
  * http://www.aliued.cn/2010/09/27/ab-testing-realization-method.html
 
