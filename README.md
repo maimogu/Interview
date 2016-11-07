@@ -27,26 +27,8 @@
 ###1.1 GC(垃圾回收机制)的实现方式
 ###1.2 新建进程的三种方法
 ###1.3 抽象类与接口的区别
+详情参考：http://wiki.jikexueyuan.com/project/java-enhancement/java-five.html
+ 
 
 ###1.4 单例模式有哪几种？写出其中的一种
-单例模式（Singleton）是几个创建模式中最对立的一个，它的主要特点不是根据用户程序调用生成一个新的实例，而是控制某个类型的实例唯一性，通过上图我们知道它包含的角色只有一个，就是Singleton，它拥有一个私有构造函数，这确保用户无法通过new直接实例它。除此之外，该模式中包含一个静态私有成员变量instance与静态公有方法Instance()。Instance()方法负责检验并实例化自己，然后存储在静态成员变量中，以确保只有一个实例被创建。
-
-详情参考：http://www.cnblogs.com/rush/archive/2011/10/30/2229565.html
-
-
-
-
-
-###HTTP协议请求的几种方式
-HTTP协议中共定义了八种方法或者叫“动作”来表明对Request-URI指定的资源的不同操作方式.
-
-详情可参考：http://blog.csdn.net/zhu_xun/article/details/16939691 
-
-
-###<span name="3.a/btest的含义,a/btest的几种实现策略">3.A/BTest的含义,A/B Test的几种实现策略</span>
-ABtest就是通过特定的标记对流量进行切分（多数是通过hash），根据切分的结果和实验流量的配比来决定打上那个流量标签。 
-然后根据流量标签来确定走哪个逻辑分支，这样子就可以在同一套系统上，进行不同的策略实验。
- * http://www.liuxingshe.com/qt/1199906.html
- * http://www.aliued.cn/2010/09/27/ab-testing-realization-method.html
-
- 
+单例模式（Singleton）是几个创建模式中最对立的一个，它的主要特点
