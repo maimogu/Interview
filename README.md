@@ -22,12 +22,12 @@
  
 ***
 #计算机网络基础
-###<span id="计算机网络基础.2"></span>HTTP协议请求的几种方式
+###<span id="计算机网络基础.2">HTTP协议请求的几种方式</span>
 HTTP协议中共定义了八种方法或者叫“动作”来表明对Request-URI指定的资源的不同操作方式.
 详情可参考：http://blog.csdn.net/zhu_xun/article/details/16939691 
 
 #软件测试与测试开发
-###<span id="软件测试与测试开发.3"></span>3.A/B Test的含义，A/B Test的几种实现策略
+###<span id="软件测试与测试开发.3">3.A/B Test的含义，A/B Test的几种实现策略</span>
  * http://www.liuxingshe.com/qt/1199906.html
  * http://www.aliued.cn/2010/09/27/ab-testing-realization-method.html
 
