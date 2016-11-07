@@ -6,8 +6,11 @@
  * 将程序后台运行的方法
 * 计算机网络基础
  * 三次握手协议
- * [HTTP协议请求的几种方式](http://blog.csdn.net/zhu_xun/article/details/16939691 "悬停显示") 
+ * [HTTP协议请求的几种方式](http://blog.csdn.net/zhu_xun/article/details/16939691 ) 
  * 网络下一跳地址的配置
 *  数据库及数据分析
-
+* 软件测试与测试开发
+ * 如何对微信红包流程进行测试？
+ * 安卓手机上，手势开锁的测试方法与流程
+ * A/B Test的含义，A/B Test的几种实现策略
  
