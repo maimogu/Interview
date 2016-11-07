@@ -23,7 +23,11 @@
 
 # 2.操作系统
 ###1.进程间通信的几种方式
+
+详情参考：http://blog.csdn.net/gatieme/article/details/50908749
 ###2.将程序后台运行的方法
+
+详情参考：http://www.cnblogs.com/xianghang123/archive/2011/08/02/2125511.html
 
 #3.计算机网络基础
 ###3.1 三次握手与四次挥手的具体过程
