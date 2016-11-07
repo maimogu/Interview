@@ -27,7 +27,7 @@ HTTP协议中共定义了八种方法或者叫“动作”来表明对Request-UR
 详情可参考：http://blog.csdn.net/zhu_xun/article/details/16939691 
 
 
-#3.A/BTest的含义,A/B Test的几种实现策略
+#<span id="3.A/B Test的含义，A/B Test的几种实现策略">3.A/BTest的含义,A/B Test的几种实现策略</span>
  * http://www.liuxingshe.com/qt/1199906.html
  * http://www.aliued.cn/2010/09/27/ab-testing-realization-method.html
 
