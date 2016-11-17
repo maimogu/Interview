@@ -21,6 +21,10 @@
 
 详情参考：http://www.cnblogs.com/rush/archive/2011/10/30/2229565.html
 
+###1.5 面向对象三大基本特性,五大基本原则
+
+详情参考：http://www.cnblogs.com/BlogNetSpace/archive/2012/03/20/1562858.html
+
 # 2.操作系统
 ###1.进程间通信的几种方式
 
